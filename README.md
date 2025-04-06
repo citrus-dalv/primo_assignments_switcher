@@ -1,4 +1,4 @@
-# Assignment Management System
+# Primo Assignments Switcher
 
 A C++ application for managing Primo API assignments with enable/disable functionality.
 
